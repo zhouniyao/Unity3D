@@ -1,0 +1,2 @@
+空对象命名设置EachTouch，名字必须这样写，把EachTouch   _Pre拖到此对象
+空对象命名为New Joystick，把EasyJoystick   _Pre拖到此对象
