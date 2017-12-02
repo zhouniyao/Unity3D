@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFamily_Learning", "MyFamily_Learning.csproj", "{181245D4-05B3-EF08-F680-B1F82BBBE448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFamily_Learning.Editor", "MyFamily_Learning.Editor.csproj", "{B924B4BB-19C2-1328-9EBC-BA3187FBFCD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{181245D4-05B3-EF08-F680-B1F82BBBE448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181245D4-05B3-EF08-F680-B1F82BBBE448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181245D4-05B3-EF08-F680-B1F82BBBE448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181245D4-05B3-EF08-F680-B1F82BBBE448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B924B4BB-19C2-1328-9EBC-BA3187FBFCD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B924B4BB-19C2-1328-9EBC-BA3187FBFCD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B924B4BB-19C2-1328-9EBC-BA3187FBFCD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B924B4BB-19C2-1328-9EBC-BA3187FBFCD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
